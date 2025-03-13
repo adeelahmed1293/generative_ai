@@ -1,0 +1,12 @@
+jq
+streamlit
+langchain_community
+langchain_core
+langchain
+pypdf
+unstructured
+faiss-cpu
+langchain_groq
+sentence-transformers
+python-dotenv
+chromadb
