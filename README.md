@@ -2,7 +2,7 @@
 # Overview :
 This repository contains projects developed using RAG (Retriever-Agnostic Generation) and GenAI technologies. These projects aim to leverage advanced AI models for data retrieval and generation tasks.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/982465f1-fc95-42d7-b9ed-3e757ccc3d69)
 
 # Projects Included
 Technologies: GenAI, Python, LangChain, AutoGen.
